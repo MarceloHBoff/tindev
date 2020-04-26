@@ -1,4 +1,4 @@
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Be%20The%20Hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2FMarceloHBoff%2Fbethehero%2Fmaster%2Finsominia.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Tindev&uri=https%3A%2F%2Fraw.githubusercontent.com%2FMarceloHBoff%2Ftindev%2Fmaster%2Finsomnia.json)
 
 ## Semana Omnistack 09
 
