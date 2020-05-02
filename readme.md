@@ -1,74 +1,116 @@
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Tindev&uri=https%3A%2F%2Fraw.githubusercontent.com%2FMarceloHBoff%2Ftindev%2Fmaster%2Finsomnia.json)
 
-## Semana Omnistack 09
+<h1 align="center">Tindev</h1>
 
-### Tindev
+<h3>Semana Omnistack 09
+  <h4 align="center">
+    A FullStack application clone of Tinder but turned to find developers.
+  </h4>
+</h3>
 
-#### Description
+---
 
-This aplication was a clone of Tinder but turned to find developers. Using your GITHUB username is possible to log in application and see other people registered.
+<p align="center">
+  <img alt="GitHub top languages" src="https://img.shields.io/github/languages/top/MarceloHBoff/tindev.svg">
+
+  <img alt="GitHub count languages" src="https://img.shields.io/github/languages/count/MarceloHBoff/tindev.svg">
+
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MarceloHBoff/tindev.svg">
+
+  <img alt="GitHub license" src="https://img.shields.io/github/license/MarceloHBoff/tindev.svg">
+</p>
+
+<h2>📔 Description</h2>
+
+On the backend was used a instance of Mongo Atlas to save the data. In the frontend and mobile aplication its possible make log in using your GITHUB username and see other people registered.
 
 by Rockeseat ❤️
 
-#### Details
-
-On the backend was used a instance of Mongo Atlas to save the data. In the frontend and mobile aplication its possible make log in using your GITHUB username.
+---
 
 `Web Aplication`
 
-<h1 align="center">
-    <img alt="tindev" src="./.github/assets/frontend.gif" width="800px" />
-</h1>
+<details>
+  <summary>See</summary>
+
+![Frontend](.github/assets/frontend.gif)
+
+</details>
 
 `Mobile`
 
-<h1 align="center">
-    <img alt="tindev" src="./.github/assets/mobile.gif" width="400px" />
-</h1>
+<details>
+  <summary>See</summary>
 
-#### Techs
+![Mobile](.github/assets/mobile.gif)
 
-- NodeJS
-- ReactJS
-- React Native
-- Styled-Components
-- Express
-- MongoDB
-- Mongo Atlas
-- ESLint
-- Prettier
-- Web Socket
+</details>
 
-#### To Run
+<h2>🚀 Technologies</h2>
 
-In `backend`
+- [NodeJS](https://nodejs.org)
+- [ReactJS](https://reactjs.org/)
+- [React Native](https://facebook.github.io/react-native/)
+- [Axios](https://github.com/axios/axios)
+- [Styled-Components](https://styled-components.com/)
+- [Express](https://expressjs.com/pt-br/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongo Atlas](https://www.mongodb.com/cloud/atlas)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Web Socket](https://socket.io/)
 
-With yarn
+---
 
-```bash
-yarn dev
-```
+<h2>❓ How to use</h2>
 
-With npm
+`Backend`
 
 ```bash
-npm run dev
+# Clone this repository
+$ git clone https://github.com/MarceloHBoff/tindev/tree/master/backend
+
+# Go into the repository
+$ cd tindev/backend
+
+# Install dependencies for the backend
+$ yarn
+
+# Run the backend server
+$ yarn dev
 ```
 
-In `frontend or mobile`
-
-With yarn
+`Frontend`
 
 ```bash
-yarn start
+# Clone this repository
+$ git clone https://github.com/MarceloHBoff/tindev/tree/master/frontend
+
+# Go into the repository
+$ cd tindev/frontend
+
+# Install dependencies for the frontend
+$ yarn
+
+# Run the frontend
+$ yarn start
 ```
 
-With npm
+`Mobile`
 
 ```bash
-npm run start
+# Clone this repository
+$ git clone https://github.com/MarceloHBoff/tindev/tree/master/mobile
+
+# Go into the repository
+$ cd tindev/mobile
+
+# Install dependencies for the mobile
+$ yarn
+
+# Start React Native Server
+$ yarn start
+
 ```
 
-#### License
-
-MIT
+Made with love by [Marcelo Boff!](https://www.linkedin.com/in/marcelo-boff)
